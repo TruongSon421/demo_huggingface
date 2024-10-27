@@ -1,0 +1,4 @@
+gradio
+transformer
+torch
+tensorflow
